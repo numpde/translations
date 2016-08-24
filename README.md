@@ -1,5 +1,5 @@
 Translations
 ------------
 
- * F. G. Frobenius, Verallgemeinerung des Sylow'schen Satzes, 1895 ([src](./tree/master/Frobenius-1895b/src/) / [tex](./tree/master/Frobenius-1895b/tex/) / [pdf](./tree/master/Frobenius-1895b/pdf/))
+ * F. G. Frobenius, Verallgemeinerung des Sylow'schen Satzes, 1895 ([src](./Frobenius-1895b/src/) / [tex](./Frobenius-1895b/tex/) / [pdf](./Frobenius-1895b/pdf/))
 
